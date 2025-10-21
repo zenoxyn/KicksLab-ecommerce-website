@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="1902" height="626" alt="image" src="screenshot-webstite/banner-readme.png" />
+  <img width="1902" height="626" alt="image" src="screenshot-website/banner-readme.png" />
 </p>
 
 <h1 align="center">👟 KicksLab</h1>
@@ -27,19 +27,19 @@
 ## 🚀 Live Preview
 
 <p align="center">
-   <img alt="image" src="screenshot-webstite/home.png"/>
+   <img alt="image" src="screenshot-website/home.png"/>
 </p>
 
 <p align="center">
-   <img alt="image" src="screenshot-webstite/men.png"/>
+   <img alt="image" src="screenshot-website/men.png"/>
 </p>
 
 <p align="center">
-   <img alt="image" src="screenshot-webstite/women.png"/>
+   <img alt="image" src="screenshot-website/women.png"/>
 </p>
 
 <p align="center">
-   <img alt="image" src="screenshot-webstite/cart.png"/>
+   <img alt="image" src="screenshot-website/cart.png"/>
 </p>
 
 ---
