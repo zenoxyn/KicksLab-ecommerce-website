@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zenoxyn.github.io/KicksLab-ecommerce-website"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-Coming%20Soon-blue?style=for-the-badge"></a>
+  <a href="https://zenoxyn.github.io/KicksLab-ecommerce-website"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-blue?style=for-the-badge"></a>
   <a href="https://github.com/zenoxyn/KicksLab-ecommerce-website"><img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"></a>
 </p>
