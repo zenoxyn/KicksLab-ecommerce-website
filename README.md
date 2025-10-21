@@ -74,7 +74,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/KicksLab.git
+git clone https://github.com/zenoxyn/KicksLab-ecommerce-website.git
 
 # Navigate into the project
 cd KicksLab
