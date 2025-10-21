@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+.navbar-brand {
+  font-family: "BBH Sans Hegarty", sans-serif;
+}
+
+nav button {
+  border: none;
+  background: none;
+}
+
+.banner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+  gap: 1rem;
+  color: transparent;
+  background: linear-gradient(135deg, #60676d 0%, #000000 60%);
+  color: #fff;
+  -webkit-text-fill-color: #fff;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.banner h1 {
+  font-family: "BBH Sans Bogle", sans-serif;
+  font-size: 5vw;
+}
+
+.banner p {
+  text-align: center;
+  font-size: 1vw;
+  font-weight: bold;
+}
+
+.categories img {
+  width: 100%;
+}
+
+.categories p {
+  font-family: "BBH Sans Bartle", sans-serif;
+  font-size: 1.5vw;
+}
+
+.hot-product hr {
+  opacity: 0.7;
+  margin: 20px auto;
+  width: 90%;
+}
+
+.hot-product h1 {
+  font-family: "BBH Sans Bogle", sans-serif;
+  font-size: 2.5vw;
+  text-align: center;
+}
+
+.card {
+  border: none;
+}
+
+.card img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.card a {
+  font-weight: 500;
+  text-align: left;
+  text-decoration: none;
+  color: #000;
+}
+
+.type {
+  font-weight: lighter;
+}
+
+.card a p {
+  margin: 2px;
+  font-size: 1.2vw;
+}
+
+main h1 {
+  font-family: "BBH Sans Bartle", sans-serif;
+  font-size: 1.5vw;
+  margin: 50px;
+}
+
+#product-detail {
+  margin: 50px;
+}
+
+footer .container {
+  padding-bottom: 15px;
+}
